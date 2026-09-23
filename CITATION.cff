@@ -1,5 +1,5 @@
-cff-version: 1.1.0
-message: "If you use this software or code, please cite our paper as below."
+cff-version: 1.0.0
+message: "If you use this code, please cite our paper as below."
 authors:
   - family-names: "Ghosh"
     given-names: "Chirantan"
