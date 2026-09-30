@@ -1,0 +1,72 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: srssf
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Chirantan
+    family-names: Ghosh
+    email: c@rootnous.com
+    affiliation: RootNous & OriginSci
+    orcid: 'https://orcid.org/0000-0001-8316-7583'
+  - name: Inhok Co
+    address: '1401 Pennsylvania Ave '
+    city: Wilmington
+    country: US
+    post-code: '19806'
+    location: STE 105
+    region: DE
+    email: c@rootnous.com
+    website: 'https://inhokco.com/'
+identifiers:
+  - type: url
+    value: 'https://doi.org/10.20944/preprints202609.2222.v1'
+    description: Article
+  - type: doi
+    value: 10.20944/preprints202609.2222.v1
+    description: Article
+repository-code: 'https://github.com/rootnous/srssf'
+url: 'https://github.com/rootnous'
+abstract: >-
+  Hyperspectral Image Classification is an important topic
+  in remote sensing with numerous applications in precision
+  agriculture, environmental monitoring, defence, and more.
+  It helps classify material composition by mapping spectral
+  signatures from each pixel. Despite its potential, it
+  faces persistent challenges due to the scarcity of
+  labelled data and high dimensionality. This makes it
+  difficult to achieve robust performance that can
+  generalize well. To address this problem, we propose SRSSF
+  (Stability-Reliability Spectral-Spatial Fusion), a hybrid
+  mixture-of-experts framework for hyperspectral image (HSI)
+  classification. It fuses a compact, stability-selected
+  spectral representation with full-spectrum spatial and
+  joint spectral-spatial descriptors (extended
+  morphological, attribute-like, and Gabor texture
+  profiles), combined through validation-derived reliability
+  weights rather than fixed or heuristic fusion rules. SRSSF
+  is evaluated under a strict, footprint-level spatially
+  disjoint protocol in which entire patch receptive fields
+  are guaranteed non-overlapping across training,
+  validation, and test partitions, not mere center pixels.
+  It has an automated, geometry-only (label- and
+  accuracy-independent) seed-acceptance procedure and
+  requires a minimum dataset-specific test-set size for
+  training. The framework is benchmarked against fourteen
+  classical and CNN spectral/spatial baselines and a
+  dedicated ablation suite, across four benchmark datasets
+  (Indian Pines, Pavia University, Salinas, and the Kennedy
+  Space Center (KSC)). Our framework achieves the best OA,
+  AA, and κ on every dataset, with OA scores of
+  56.43,91.94,90.50, and 75.96 at Indian-Pines, Pavia
+  University, Salinas, and KSC, respectively.
+keywords:
+  - ' hyperspectral image classification;  spatial spectral fusion;  band selection;  machine learning;  remote sensing'
+license: BSD-3-Clause-Clear
+commit: 'version: 1'
+version: '1'
+date-released: '2026-09-24'
