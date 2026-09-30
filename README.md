@@ -33,17 +33,16 @@ We thank Kaggle contributors Douglas Martins and Sreevalli Manda for hosting dat
 If you use this code or our findings in your research, please cite our paper:
 
 ```bibtex
-@article{author2026title,
-  author    = {Ghosh, Chirantan},
-  title     = {},
-  journal   = {Journal Name or arXiv},
-  year      = {2026},
-  volume    = {1},
-  number    = {1},
-  pages     = {1--10},
-  doi       = {}
+@article{202609.2222,
+	doi = {10.20944/preprints202609.2222.v1},
+	url = {https://doi.org/10.20944/preprints202609.2222.v1},
+	year = 2026,
+	month = {September},
+	publisher = {Preprints},
+	author = {Chirantan Ghosh},
+	title = {SRSSF: Stability-Reliability Spectral-Spatial Fusion for Hyperspectral Image Classification},
+	journal = {Preprints}
 }
-
 
 
 
