@@ -1,23 +1,10 @@
-cff-version: 1.0.0
-message: "If you use this code, please cite our paper as below."
-authors:
-  - family-names: "Ghosh"
-    given-names: "Chirantan"
-    orcid: "https://orcid.org/0000-0001-8316-7583" 
-  
-title: "srssf"
-version: "1.0.0"
-date-released: "2026-09-23"
-url: "https://github.com/rootnous/srssf"
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "Ghosh"
-      given-names: "Chirantan"
-  title: "SRSSF: Stability-Reliability Spectral-Spatial Fusion for Hyperspectral
-Image Classification"
-  journal: "arXiv"
-  year: 2026
-  volume: "1" 
-  issue: "1"  
-  doi: ""
+@article{202609.2222,
+	doi = {10.20944/preprints202609.2222.v1},
+	url = {https://doi.org/10.20944/preprints202609.2222.v1},
+	year = 2026,
+	month = {September},
+	publisher = {Preprints},
+	author = {Chirantan Ghosh},
+	title = {SRSSF: Stability-Reliability Spectral-Spatial Fusion for Hyperspectral Image Classification},
+	journal = {Preprints}
+}
