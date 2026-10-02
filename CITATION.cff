@@ -13,7 +13,7 @@ authors:
     email: c@rootnous.com
     affiliation: RootNous & OriginSci
     orcid: 'https://orcid.org/0000-0001-8316-7583'
-  - name: Inhok Co
+  - name: RootNous & OriginSci
     address: '1401 Pennsylvania Ave '
     city: Wilmington
     country: US
@@ -21,7 +21,7 @@ authors:
     location: STE 105
     region: DE
     email: c@rootnous.com
-    website: 'https://inhokco.com/'
+    website: 'https://rootnous.com/ & https://edu.africa/'
 identifiers:
   - type: url
     value: 'https://doi.org/10.20944/preprints202609.2222.v1'
